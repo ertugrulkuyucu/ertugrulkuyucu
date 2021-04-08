@@ -1,5 +1,8 @@
 # Hi there, I'm Ertugrul 👋
 
+- 🔭 I’m currently working on Java & Android apps.
+- 👇👇 You can find my linkedin link 👇👇
+
 [![Linkedln Badge](https://img.icons8.com/color/2x/linkedin-2--v2.gif)](https://www.linkedin.com/in/ertu%C4%9Frul-kuyucu-474b96142/)  
 
 <!--
