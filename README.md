@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertugrulkuyucu&label=Profile%20views&color=0e75b6&style=flat" alt="ertugrulkuyucu" /> </p>
 
-- 📫 How to reach me **ertugrulkuyucu@gmail.com**
+- 📫 How to reach me <a href="mailto:ertugrulkuyucu@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="40" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
